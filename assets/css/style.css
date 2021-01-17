@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&display=swap');
+
+body{
+    font-family: 'Fraunces', serif;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.my-footer-bg{
+    background-color: rgb(30, 14, 96);
+    color: aqua;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
