@@ -39,3 +39,9 @@ ul {
     width: 10rem;
     height: 10rem;
 }
+.isDisabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+  }
