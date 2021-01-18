@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Fraunces', serif;
+    overflow-x: hidden;
 }
 
 .navbar-brand{
@@ -16,4 +17,25 @@ body{
 ul {
   list-style: none;
   padding: 0;
+}
+
+.payemt-methods-title{
+    font-size: 3rem;
+}
+
+.payment-methods-subtitle{
+    font-size: 2.1rem;
+}
+
+.cart{
+    font-size: 3rem;
+}
+
+.current-price{
+    font-size: 1.5rem;
+}
+
+.media img{
+    width: 10rem;
+    height: 10rem;
 }
